@@ -1,2 +1,2 @@
 # Wild-tamagotchi
-cute tamagotchi of bunny
+Cute tamagotchi of bunny
