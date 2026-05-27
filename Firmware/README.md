@@ -1,6 +1,6 @@
-# Rabbit & Bunny — `inzhugotchi`
+# Rabbit & Bunny — `wildgotchi`
 
-Two-pet tamagotchi for the **inzhugotchi** PCB: ESP32-S3-DEVKITC-1-N8R2, 2.42" mono OLED (I2C), four push buttons.
+Two-pet tamagotchi for the **wildgotchi** PCB: ESP32-S3-DEVKITC-1-N8R2, 2.42" mono OLED (I2C), four push buttons.
 
 - **Rabbit** (black, dithered fill) — quiet, contemplative, lives among books and tea
 - **Bunny** (white, outline) — energetic, bouncy, lives among balloons and toys
