@@ -1,3 +1,5 @@
+# ALL FIRMWARE WAS MADE BY CLAUDE CODE
+
 # Rabbit & Bunny — `wildgotchi`
 
 Two-pet tamagotchi for the **wildgotchi** PCB: ESP32-S3-DEVKITC-1-N8R2, 2.42" mono OLED (I2C), four push buttons.
