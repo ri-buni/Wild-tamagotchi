@@ -16,6 +16,6 @@ PCB
 <img width="662" height="694" alt="anydesk00007" src="https://github.com/user-attachments/assets/43635041-d8c7-4326-acd6-d5647d53815e" />
 <img width="1010" height="739" alt="anydesk00008" src="https://github.com/user-attachments/assets/ccb4cd00-9cc0-4363-8c8e-d84baaae7f14" />
 
-# Firmware made with Claude Code
+# Firmware 
 
-But the character itself and drawinng were made by me.
+made with Claude Code, but the character itself and drawinng were made by me.
