@@ -18,4 +18,15 @@ PCB
 
 # Firmware 
 
-made with Claude Code, but the character itself and drawinng were made by me.
+Made with Claude Code, but the character itself and drawinng were made by me.
+
+# BOM
+
+PCB ordered in JLCPCB ~ 10$
+[LiPo 500 mAh](https://aliexpress.ru/item/1005006462526013.html?sku_id=12000037283411655&spm=a2g2w.productlist.search_results.1.60cbe7b9H2b0Od) ~ 5$
+[TP4056 module](https://aliexpress.ru/item/32453058256.html?sku_id=12000052763412620&spm=a2g2w.productlist.search_results.1.3c315eefNO4Pkx) - 0.6$ 
+[Butoons](https://aliexpress.ru/item/1005007623070623.html?sku_id=12000041542638534&spm=a2g2w.productlist.search_results.1.683d4abfDnFUaj) ~ 0.8$
+[ESP32 devkitc](https://aliexpress.ru/item/1005006737960797.html?sku_id=12000038137904831&spm=a2g2w.productlist.search_results.0.73ed3a34OVlkgB) ~ 3.4$
+[2"42 OLED](https://aliexpress.ru/item/1005008770450001.html?spm=a2g2w.cart.cart_split.6.64824aa61fK795&sku_id=12000046598711076) ~ 11.15$
+My shipping was ~ 2$
+So your estimated price would be 30-35$
