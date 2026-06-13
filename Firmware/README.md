@@ -44,10 +44,6 @@ The world is a row of five locations. **Left / Right walk the active pet** betwe
 
 Menu actions: **Feed / Play / Clean / Sleep / Back**. (`Back` just closes the menu; pressing Button 4 does the same.)
 
-### Do I need a fifth button?
-
-No — four is enough, and that matches the PCB. The only trade-off is the ~0.35 s wait before a single Button-4 press registers (it has to rule out a double-press). A dedicated power button would remove that delay, but it isn't required.
-
 ---
 
 ## Locations
