@@ -1,5 +1,5 @@
 # Wild-tamagotchi
-Cute tamagotchi of bunny
+Two pet tamagotchi, they have their own states and you can switch from one to another. Button 1 is for turning left, Button 2 is for turning right, Button 3 is for action, Button 4 is for switching bunnies and double tap on Button 4 is for turning on and off.
 
 # PCB made in KiCad
 
