@@ -1,0 +1,9 @@
+﻿Item,Description,Qty,Unit Price (USD),Line Total (USD),Source,Link
+PCB,Custom 2-layer PCB,1,10.00,10.00,JLCPCB,https://jlcpcb.com/
+LiPo battery,500mAh 3.7V,1,5.10,5.10,AliExpress,https://aliexpress.ru/item/1005006462526013.html?sku_id=12000037283411655
+TP4056,Li-ion charger module,1,0.50,0.50,AliExpress,https://aliexpress.ru/item/32453058256.html?sku_id=12000052763412620
+Buttons,6x6 tactile push buttons,1,0.80,0.80,AliExpress,https://aliexpress.ru/item/1005007623070623.html?sku_id=12000041542638534
+ESP32 DevKitC,MCU dev board,1,4.00,4.00,AliExpress,https://aliexpress.ru/item/1005006737960797.html?sku_id=12000038137904831
+"2.42"" OLED","128x64 SSD1309, I2C/SPI",1,12.00,12.00,AliExpress,https://aliexpress.ru/item/1005008770450001.html?sku_id=12000046598711076
+Shipping,AliExpress shipping,1,2.00,2.00,AliExpress,
+GRAND TOTAL,,,,34.40,,
