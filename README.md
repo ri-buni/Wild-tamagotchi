@@ -22,12 +22,15 @@ Made with Claude Code, but the character itself and drawinng were made by me.
 
 # BOM
 
-- PCB ordered in JLCPCB ~ 10$
-- [LiPo 500 mAh](https://aliexpress.ru/item/1005006462526013.html?sku_id=12000037283411655&spm=a2g2w.productlist.search_results.1.60cbe7b9H2b0Od) ~ 5$
-- [TP4056 module](https://aliexpress.ru/item/32453058256.html?sku_id=12000052763412620&spm=a2g2w.productlist.search_results.1.3c315eefNO4Pkx) - 0.6$ 
-- [Butoons](https://aliexpress.ru/item/1005007623070623.html?sku_id=12000041542638534&spm=a2g2w.productlist.search_results.1.683d4abfDnFUaj) ~ 0.8$
-- [ESP32 devkitc](https://aliexpress.ru/item/1005006737960797.html?sku_id=12000038137904831&spm=a2g2w.productlist.search_results.0.73ed3a34OVlkgB) ~ 3.4$
-- [2"42 OLED](https://aliexpress.ru/item/1005008770450001.html?spm=a2g2w.cart.cart_split.6.64824aa61fK795&sku_id=12000046598711076) ~ 11.15$
-- My shipping was ~ 2$
+| Item | Description | Qty | Unit Price | Line Total | Source |
+|---|---|---|---|---|---|
+| PCB | Custom 2-layer PCB | 1 | $10.00 | $10.00 | [JLCPCB](https://jlcpcb.com/) |
+| LiPo battery | 500mAh 3.7V | 1 | $5.10 | $5.10 | [AliExpress](https://aliexpress.ru/item/1005006462526013.html?sku_id=12000037283411655) |
+| TP4056 | Li-ion charger module | 1 | $0.50 | $0.50 | [AliExpress](https://aliexpress.ru/item/32453058256.html?sku_id=12000052763412620) |
+| Buttons | 6x6 tactile push buttons | 1 | $0.80 | $0.80 | [AliExpress](https://aliexpress.ru/item/1005007623070623.html?sku_id=12000041542638534) |
+| ESP32 DevKitC | MCU dev board | 1 | $4.00 | $4.00 | [AliExpress](https://aliexpress.ru/item/1005006737960797.html?sku_id=12000038137904831) |
+| 2.42" OLED | 128x64 SSD1309, I2C/SPI | 1 | $12.00 | $12.00 | [AliExpress](https://aliexpress.ru/item/1005008770450001.html?sku_id=12000046598711076) |
+| Shipping | AliExpress shipping | 1 | $2.00 | $2.00 | AliExpress |
+| **GRAND TOTAL** |  |  |  | **$34.40** |  |
 
 So your estimated price would be 30-35$
